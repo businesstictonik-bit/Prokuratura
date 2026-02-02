@@ -9,20 +9,20 @@
 <Choriyev>94824608</Baxodir/>Gaz
 <Musurmonov>62836183</Iskandar/>
 
-<Muzraqov>62946251</Muxiddin/>Suv
-<Qoraboyev>72639401</Baxtiyor/>Suv
-<Choriyev>62849371</Tuychiboy/>Suv
-<Chorshanbiyev>80482047</Umidjon/>Suv
-<Qudratov>62848462</Mansur/>Suv
-<Shaydullayev>63747887</Jamshid/>Suv
-<Qudratov>72721093</Tolqin/>Suv
-<Aliyev>83831531</Rustam/>Suv
-<Abdimuminov>51728316</Baxriddin/>Suv
-<Muxtarov>65728311</Tulqin/>Suv
-<Qahhorov>51738371</Diyorbek/>Suv
-<Soatov>51524271</Samandar/>Suv
-<Beknazarov>61726234</Shaxzodbek/>Suv
-<Allanazarov>12553714</Shodman/>Suv
+<Muzraqov>30111796300027</Muxiddin/>Suv
+<Qoraboyev>32701831880111</Baxtiyor/>Suv
+<Choriyev>32208851880058</Tuychiboy/>Suv
+<Chorshanbiyev>32007976240059</Umidjon/>Suv
+<Qudratov>30709986300049</Mansur/>Suv
+<Shaydullayev>51608038660025</Jamshid/>Suv
+<Qudratov>31202911951301</Tolqin/>Suv
+<Aliyev>30611731811309</Rustam/>Suv
+<Abdimuminov>32905806300017</Baxriddin/>Suv
+<Muxtarov>32303811870035</Tulqin/>Suv
+<Qahhorov>52207056300017</Diyorbek/>Suv
+<Soatov>51812026300011</Samandar/>Suv
+<Beknazarov>32308996300038</Shaxzodbek/>Suv
+<Allanazarov>30108806300043</Shodman/>Suv
 
 <Murtazoyev>30810956300025</Sherzod/>Tok
 <Hayitov>22001901951342</Farxod/>Tok
