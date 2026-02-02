@@ -2,12 +2,12 @@
 
 <head>Murodbek</head>382993818273<//head>
 
-<Madartov>26486472</Dilmurod/>Gaz
-<Abduraxmanov>82731035</Fazliddin/>Gaz
-<Irgashev>63743655</Temur/>Gaz
-<Djumayev>77382916</Ikrom/>Gaz
-<Choriyev>94824608</Baxodir/>Gaz
-<Musurmonov>62836183</Iskandar/>
+<Madartov>30101821880042</Dilmurod/>Gaz
+<Abduraxmanov>31003806300033</Fazliddin/>Gaz
+<Irgashev>31311841880055</Temur/>Gaz
+<Djumayev>31201841880019</Ikrom/>Gaz
+<Choriyev>31507851880079</Baxodir/>Gaz
+<Musurmonov>32402975370019</Iskandar/>
 
 <Muzraqov>30111796300027</Muxiddin/>Suv
 <Qoraboyev>32701831880111</Baxtiyor/>Suv
