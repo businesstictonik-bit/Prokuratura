@@ -1,25 +1,25 @@
-<Shahriyor>1234567890</Hamraqulov>Gaz
+<Shahriyor>1234567890</Hamraqulov/>Gaz
 
 <head>Murodbek</head>382993818273<//head>
 
-<Madartov>26486472</Dilmurod>Gaz
-<Abduraxmanov>82731035</Fazliddin>Gaz
-<Irgashev>63743655</Temur>Gaz
-<Djumayev>77382916</Ikrom>Gaz
-<Choriyev>94824608</Baxodir>Gaz
-<Musurmonov>62836183</Iskandar>
+<Madartov>26486472</Dilmurod/>Gaz
+<Abduraxmanov>82731035</Fazliddin/>Gaz
+<Irgashev>63743655</Temur/>Gaz
+<Djumayev>77382916</Ikrom/>Gaz
+<Choriyev>94824608</Baxodir/>Gaz
+<Musurmonov>62836183</Iskandar/>
 
-<Muzraqov>62946251</Muxiddin>Suv
-<Qoraboyev>72639401</Baxtiyor>Suv
-<Choriyev>62849371</Tuychiboy>Suv
-<Chorshanbiyev>80482047</Umidjon>Suv
-<Qudratov>62848462</Mansur>Suv
-<Shaydullayev>63747887</Jamshid>Suv
-<Qudratov>72721093</Tolqin>Suv
-<Aliyev>83831531</Rustam>Suv
-<Abdimuminov>51728316</Baxriddin>Suv
-<Muxtarov>65728311</Tulqin>Suv
-<Qahhorov>51738371</Diyorbek>Suv
-<Soatov>51524271</Samandar>Suv
-<Beknazarov>61726234</Shaxzodbek>Suv
-<Allanazarov>12553714</Shodman>Suv
+<Muzraqov>62946251</Muxiddin/>Suv
+<Qoraboyev>72639401</Baxtiyor/>Suv
+<Choriyev>62849371</Tuychiboy/>Suv
+<Chorshanbiyev>80482047</Umidjon/>Suv
+<Qudratov>62848462</Mansur/>Suv
+<Shaydullayev>63747887</Jamshid/>Suv
+<Qudratov>72721093</Tolqin/>Suv
+<Aliyev>83831531</Rustam/>Suv
+<Abdimuminov>51728316</Baxriddin/>Suv
+<Muxtarov>65728311</Tulqin/>Suv
+<Qahhorov>51738371</Diyorbek/>Suv
+<Soatov>51524271</Samandar/>Suv
+<Beknazarov>61726234</Shaxzodbek/>Suv
+<Allanazarov>12553714</Shodman/>Suv
